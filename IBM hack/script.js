@@ -1,5 +1,5 @@
 const firebaseApp = firebase.initializeApp({ 
-    apiKey: "AIzaSyB3EW6xUlHM-O6aOx8Mif8buhdm7BZJId4",
+    apiKey: "your api here",
     authDomain: "fire-auth-8f968.firebaseapp.com",
     projectId: "fire-auth-8f968",
     storageBucket: "fire-auth-8f968.appspot.com",
